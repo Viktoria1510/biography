@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://media.freestocktextures.com/cache/0d/42/0d42eeb83ad3a56c97468d69721b2c18.jpg);
+}
+h1 {
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 50px;
+    font-style: oblique;
+    background-color: rgb(146, 140, 118);
+    
+}
+.start {
+    text-align: center;
+    font-style: oblique;
+    font-size: 25px;
+    background-color: blanchedalmond;
+    padding: 15px;
+}
+main {
+    text-align: center;
+    padding: 15px;
+    
+}
+.image{
+width: 610px;
+height: 400px;
+}
+h2 {
+    text-align: center;
+    font-size: 35px;
+    color: gray; 
+    background-color: palegoldenrod;
+    padding: 25px;
+    
+}
+div {
+    font-size: 30px;
+    text-align: center;
+    font-style: normal ;
+    background-color: papayawhip;
+    
